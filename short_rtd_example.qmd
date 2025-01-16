@@ -6,8 +6,6 @@ date: "January 1, 2025"
 format:
   revealjs: 
     slide-number: true
-    chalkboard: 
-      buttons: true
     preview-links: auto
 editor_options: 
   chunk_output_type: console
